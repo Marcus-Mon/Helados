@@ -1,0 +1,6 @@
+@Helados.Server_HostAddress = http://localhost:5225
+
+GET {{Helados.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
